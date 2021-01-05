@@ -1,0 +1,16 @@
+public static void main(String[] args){
+Scanner scanner=new Scanner(System.in);
+
+int m=1;
+
+int n=2;
+null
+null
+while(m>n){
+m++;
+}
+
+null
+m=0
+n=0;
+}
